@@ -1,4 +1,4 @@
-## NOTE: This repository is no longer actively maintained and has not been updated to support PHP 7.1
+## NOTE: This is a forked copy of the acquia/acquia-sdk-php repo which removes Solr/Search-related classes and dependencies to provide baseline support for PHP 7.1. The parent repository is no longer actively maintained and it is not anticipated that any new functionality will be added to this branch.
 
 # Acquia SDK for PHP
 
